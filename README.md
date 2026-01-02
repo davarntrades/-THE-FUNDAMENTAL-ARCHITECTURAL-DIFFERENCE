@@ -4,7 +4,7 @@
 
 ## Post-Eventual Systems vs Pre-Eventual Governance
 
-## “Post-eventual systems need harm to learn.
+“Post-eventual systems need harm to learn.
 Before you defend that, ask yourself:
 Do you really believe this can scale to AGI safely?”
 — Davarn Morrison
@@ -150,7 +150,7 @@ For licensing inquiries: **davarn.trades@gmail.com**
 
 ----
 
-## “To reject pre-eventual governance, you must argue that learning after harm is safe at scale.
+ “To reject pre-eventual governance, you must argue that learning after harm is safe at scale.
 Is that the position you want to defend?”
 — Davarn Morrison
 
